@@ -1,1 +1,1 @@
-This is a course in Coursera to hwlp undertstand Django
+This is a course in Coursera to help undertstand Django
